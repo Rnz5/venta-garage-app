@@ -1,4 +1,4 @@
-const URI = 'https://prograweb-2025-2-deployment-front.vercel.app/'
+const URI = 'http://venta-garage-api-five.vercel.app/'
 
 const get = async(endpoint,token) => {
     const objPayload = {
